@@ -1,0 +1,51 @@
+@media screen and (max-width: 376px) {
+    input {
+        position: relative;
+        right: -21px;
+        width: 358px;
+        height: 53px;
+        flex-shrink: 0;
+        border-radius: 10px;
+        border: 1px solid #000;
+        background: #FFF;
+        font-size: 22px;
+    }
+
+    button {
+        width: 358px;
+        height: 53px;
+        position: relative;
+        right: -21px;
+    }
+
+    h1 {
+        font-size: 40px;
+    }
+}
+
+
+
+@media screen and (max-width: 426px) {
+    input {
+        position: relative;
+        right: -21px;
+        width: 358px;
+        height: 53px;
+        flex-shrink: 0;
+        border-radius: 10px;
+        border: 1px solid #000;
+        background: #FFF;
+        font-size: 22px;
+    }
+
+    button {
+        width: 358px;
+        height: 53px;
+        position: relative;
+        right: -21px;
+    }
+
+    h1 {
+        font-size: 40px;
+    }
+}
